@@ -4,6 +4,6 @@ var accountPassword = "12345"
 accountCity = "Noida"
 let accountState;
 //accountId = 56789
-console.table([accountEmail,accountId,accountPassword,accountCity,accountState])
+console.table([accountEmail,accountId,accountPassword, accountCity, accountState])
 
 
